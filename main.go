@@ -7,5 +7,5 @@ func main() {
 }
 
 func consolePrint() {
-	fmt.Println("Hi1 This is Print Function")
+	fmt.Println("Hi! This is Print Function")
 }
