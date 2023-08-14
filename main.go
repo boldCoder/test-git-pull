@@ -9,3 +9,6 @@ func main() {
 func test() {
 	fmt.Println("Hello, World!")
 }
+func consolePrint() {
+	fmt.Println("Hi! This is Print Function")
+}
