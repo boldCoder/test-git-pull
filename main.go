@@ -3,8 +3,14 @@ package main
 import "fmt"
 
 func main() {
+	test()
 	consolePrint()
 	consolePrint1()
+}
+
+
+func test() {
+	fmt.Println("Hello, World!")
 }
 
 func consolePrint() {
