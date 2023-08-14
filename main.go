@@ -17,4 +17,5 @@ func consolePrint() {
 
 func consolePrint1() {
 	fmt.Println("Hi! This is Print1 Function")
+	fmt.Println("Hello, World!")
 }
